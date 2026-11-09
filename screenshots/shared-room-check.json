@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/p/4WZRAB",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Show of Hands",
+      "hasCanvas": false,
+      "bodyTextLen": 468,
+      "bodyTextHash": "1d6b39bf69d8226637fe7b931ee3c424783c0959fa277532b9ffb312d1d2391b",
+      "bodyTextPrefix": "Show of Hands New question LIVE POLL 0 votes Best way to spend a",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/shared-room-check.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Show of Hands",
+      "hasCanvas": false,
+      "bodyTextLen": 468,
+      "bodyTextHash": "1d6b39bf69d8226637fe7b931ee3c424783c0959fa277532b9ffb312d1d2391b",
+      "bodyTextPrefix": "Show of Hands New question LIVE POLL 0 votes Best way to spend a",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/shared-room-check-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/shared-room-check.json"
+}
